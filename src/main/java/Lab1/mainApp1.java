@@ -14,3 +14,5 @@ public class mainApp1 {
         System.out.println("Program ..Ended ...");
     }
 }
+
+/* This is some text to test the commit function */
